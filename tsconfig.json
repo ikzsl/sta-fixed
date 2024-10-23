@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "noEmit": true,
+    "typeRoots": ["node_modules/@types"],
+    "types": []
+  }
+}
